@@ -1,0 +1,13 @@
+streamlit>=1.30
+geopandas>=0.14
+pandas>=2.0
+numpy>=1.25
+matplotlib>=3.7
+seaborn>=0.13
+shapely>=2.0
+pydeck>=0.8
+lxml>=4.9
+fiona>=1.9
+pyproj>=3.6
+xmltodict>=0.13
+gunicorn>=21.2
